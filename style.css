@@ -1,0 +1,11 @@
+.wrapper{
+  display : flex;
+  margin: 2rem;
+  
+}
+body input {
+  width: 90vw;
+  margin: 1rem;
+  padding: .5rem;
+  flex: 1 1 100%;
+}
